@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 - 🔭 I’m currently working on [Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes)
 - 🌱 I’m constantly learning and improving my skills in Python, web development, data science, and cybersecurity
 - 💬 Ask me about Python, web development, and automation
-- 📫 How to reach me: [under development 🔨👷‍♂️](mailto:sammy@example.com)
+- 📫 How to reach me: [My portfolio](https://portfolio-main-three-phi.vercel.app/)
 
 ## 🏆 Achievements
 
@@ -22,11 +22,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 ### [Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes)
 A Python-based application that helps manage Instagram likes.
 
-### [Project library](https://github.com/Sammy750-cyber/project-library)
-project library is a tool that helps users to organize their projects ideas and helps the user to keep track of their project progress
+### [Project library](https://project-library-iota.vercel.app/)
+   project library is a tool that helps users to organize their projects ideas and helps the user to keep track of their project 
+   progress
+
+### [Project library](https://keyboard-hero-pink.vercel.app/)
+   A fun and interactive typing game website where players improve their typing skills by pressing displayed keys correctly and 
+   avoid losing lives by pressing wrong keys.
 
 ### [Youtube Video downloader](https://github.com/Sammy750-cyber/YoutubeDL)
-A simple tool for downloading youtube videos
+   A simple tool for downloading youtube videos
 
 ## 📜 Blog Posts
 
@@ -36,8 +41,8 @@ A simple tool for downloading youtube videos
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sammy750-cyber/)
-- [Twitter](https://twitter.com/sammy750-cyber)
-- [Personal Website](https://www.sammy750-cyber.com)
+- [Twitter](https://x.com/sammy750-cyber)
+- [Personal Website](https://portfolio-main-three-phi.vercel.app/)
 
 ## 📈 GitHub Stats
 
