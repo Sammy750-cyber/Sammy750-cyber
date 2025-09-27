@@ -26,12 +26,15 @@ A Python-based application that helps manage Instagram likes.
    project library is a tool that helps users to organize their projects ideas and helps the user to keep track of their project 
    progress
 
-### [Project library](https://keyboard-hero-pink.vercel.app/)
+### [Keyboard hero](https://keyboard-hero-pink.vercel.app/)
    A fun and interactive typing game website where players improve their typing skills by pressing displayed keys correctly and 
    avoid losing lives by pressing wrong keys.
 
 ### [Youtube Video downloader](https://github.com/Sammy750-cyber/YoutubeDL)
    A simple tool for downloading youtube videos
+
+### [Port Scanner](https://github.com/Sammy750-cyber/port-scanner)
+   A simple, safe TCP *connect-style* port scanner written in Python. It performs concurrent TCP connection attempts to a range of ports and reports which ports are open. This tool is designed for speed, safety, and ease-of-use — and **must only be used on systems you own or have explicit permission to scan**.
 
 ## 📜 Blog Posts
 
