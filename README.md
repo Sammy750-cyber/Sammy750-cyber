@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes)
+- 🔭 I’m currently taking a course into Cyber Security
 - 🌱 I’m constantly learning and improving my skills in Python, web development, data science, and cybersecurity
 - 💬 Ask me about Python, web development, and automation
 - 📫 How to reach me: [My portfolio](https://portfolio-main-three-phi.vercel.app/)
