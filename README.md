@@ -1,71 +1,109 @@
-# Hi there, I'm Sammy750-cyber 👋
+# Hi, I'm Samuel Adegboyega (Sammy750-cyber)
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on Python and web development. Here you'll find a collection of my projects, contributions, and achievements.
+Welcome to my GitHub profile. I am a developer and cybersecurity practitioner focused on Python, web development, and ethical security research. I build tools, run controlled experiments in my personal lab, and document findings and utilities that help improve software and network resilience.
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently taking a course into Cyber Security
-- 🌱 I’m constantly learning and improving my skills in Python, web development, data science, and cybersecurity
-- 💬 Ask me about Python, web development, and automation
-- 📫 How to reach me: [My portfolio](https://portfolio-main-three-phi.vercel.app/)
+## About Me
 
-## 🏆 Achievements
+- Currently building professional expertise in **Cybersecurity**, with emphasis on penetration testing, network security, and digital forensics.
+- Strong background in **Python programming**, **web development**, and **automation scripting**, applied to both software projects and security tooling.
+- I integrate security into software development—designing, testing, and hardening applications and infrastructure.
+- Portfolio: [https://portfolio-main-three-phi.vercel.app/](https://portfolio-main-three-phi.vercel.app/)
 
-- **Top Contributor** in various open-source projects
-- **100% Python** repository for [Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes)
-- Published multiple articles on web development and cybersecurity
-- Created several tools and scripts for automation and efficiency
-- Actively participated in hackathons and coding challenges
+---
 
-## 📂 Projects
+## Progress & Current Focus
 
-### [Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes)
-A Python-based application that helps manage Instagram likes.
+I have deep-dived into ethical hacking and networking through structured study and extensive hands-on practice. My learning combines methodical labs, capture-the-flag (CTF) challenges, and real-world-style exercises in isolated, legal environments.
 
-### [Project library](https://project-library-iota.vercel.app/)
-   project library is a tool that helps users to organize their projects ideas and helps the user to keep track of their project 
-   progress
+Highlights of my progress:
 
-### [Keyboard hero](https://keyboard-hero-pink.vercel.app/)
-   A fun and interactive typing game website where players improve their typing skills by pressing displayed keys correctly and 
-   avoid losing lives by pressing wrong keys.
+- **Lab work & vulnerable machines:** Completed practical exploitation and post-exploitation exercises on targets such as *Metasploitable*, *DVWA*, *Kioptrix*, and Android test environments.
+- **Network security & traffic analysis:** Practiced man-in-the-middle (MITM) scenarios, packet capture and analysis with **Wireshark** and **tcpdump**, and implemented basic network defenses.
+- **Reconnaissance & enumeration:** Performed subdomain discovery, port and service scans, and asset mapping using **Nmap**, **Sublist3r**, **assetfinder**, and **Amass**.
+- **Tooling & automation:** Built and adapted Python scripts to automate reconnaissance, scanning, and logging workflows for repeatable security assessments.
+- **OSINT investigations:** Used open-source techniques to collect and analyze publicly available information in a disciplined, ethical manner.
+- **Security mindset:** Practiced responsible disclosure principles and maintained strict boundaries—only testing systems I own or have explicit permission to assess.
 
-### [Youtube Video downloader](https://github.com/Sammy750-cyber/YoutubeDL)
-   A simple tool for downloading youtube videos
+Roadmap and current priorities:
 
-### [Port Scanner](https://github.com/Sammy750-cyber/port-scanner)
-   A simple, safe TCP *connect-style* port scanner written in Python. It performs concurrent TCP connection attempts to a range of ports and reports which ports are open. This tool is designed for speed, safety, and ease-of-use — and **must only be used on systems you own or have explicit permission to scan**.
+- Continue building experience in **web application security**, **network defense**, and **incident response**.
+- Harden personal lab infrastructure and explore containerized, reproducible lab environments.
+- Prepare for industry-recognized certification paths and deepen knowledge of exploitation frameworks and mitigation techniques.
 
-## 📜 Blog Posts
+---
 
-- [coming soon!!](https://link-to-blog-post)
-- [coming soon!!](https://link-to-another-blog-post)
+## Cybersecurity Journey
 
-## 🔗 Connect with Me
+My approach blends theoretical learning with practical, repeatable labs. I version-control reports, scripts, and lab notes to track progress and share reproducible findings.
 
-- [LinkedIn](https://www.linkedin.com/in/sammy750-cyber/)
-- [Twitter](https://x.com/sammy750-cyber)
-- [Personal Website](https://portfolio-main-three-phi.vercel.app/)
+### Key Areas of Experience
+
+- **Penetration Testing:** Hands-on practice in controlled lab environments with vulnerable targets.
+- **MITM & Network Attacks:** Performed interception and analysis to understand attack vectors and defenses.
+- **Vulnerability Research:** Focused on reconnaissance, scanning, and validation using standard tooling.
+- **OSINT:** Conducted structured information-gathering exercises for investigations and threat modeling.
+- **Defensive Security:** Implemented basic defensive measures and practiced incident response workflows.
+
+---
+
+## Projects
+
+- **[Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes):** Python automation for managing Instagram likes.
+- **[Project Library](https://project-library-iota.vercel.app/):** Tool for organizing project ideas and tracking progress.
+- **[Keyboard Hero](https://keyboard-hero-pink.vercel.app/):** Typing practice game with an interactive interface.
+- **[YouTube Video Downloader](https://github.com/Sammy750-cyber/YoutubeDL):** Python-based tool for saving YouTube videos.
+- **[Port Scanner](https://github.com/Sammy750-cyber/port-scanner):** Concurrent TCP connect-style port scanner for learning and authorized assessments.
+- **[Password checker](https://github.com/Sammy750-cyber/password_checker):** A simple, privacy-first Password Strength Checker implemented in Python. The tool evaluates password strength using length, character classes, entropy estimates, pattern detection, and optional dictionary and HaveIBeenPwned (HIBP) breach checks (k-anonymity). It is designed as a reusable library plus a small CLI wrapper.
+
+---
+
+## Cybersecurity Tools & Lab Setup
+
+- **Operating Systems:** Kali Linux, Ubuntu, Windows
+- **Virtualization:** VirtualBox, VMware Workstation
+- **Network Analysis:** Wireshark, tcpdump
+- **Vulnerable Targets:** Metasploitable, DVWA, Kioptrix
+- **Exploitation & Testing Frameworks:** Metasploit, Burp Suite, OWASP ZAP
+- **Reconnaissance Tools:** Nmap, Sublist3r, assetfinder, Amass
+- **Password & Brute-force Tools:** Hydra, Medusa
+- **Automation & Scripting:** Custom Python scripts for scanning, logging, and test orchestration
+
+---
+
+## Technical Skills
+
+- **Programming & Scripting:** Python, JavaScript, Node.js
+- **Web Development:** Express.js, HTML5, CSS3
+- **Databases:** MySQL
+- **Security Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Sublist3r, assetfinder
+- **Version Control & Deployment:** Git, GitHub, Vercel, Docker
+- **Operating Systems:** Kali Linux, Ubuntu, Windows
+---
+
+## Achievements
+
+- Contributed to open-source projects and published technical write-ups on automation and security topics.
+- Built reproducible lab artifacts and tools that support security research and teaching.
+- Actively participate in CTFs and ethical hacking exercises to refine practical skills.
+
+---
 
 ## 📈 GitHub Stats
 
 ![Sammy750-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammy750-cyber&show_icons=true&theme=radical)
 
-## 🧑‍💻 Languages and Tools
+---
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Connect With Me
 
-## 🤝 Support
-
-If you like my work, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sammy750-cyber)
+- **LinkedIn:** [https://www.linkedin.com/in/sammy750-cyber/](https://www.linkedin.com/in/sammy750-cyber/)
+- **Twitter:** [https://x.com/sammy750-cyber](https://x.com/samueladeg92074)
+- **Website:** [https://portfolio-main-three-phi.vercel.app/](https://portfolio-main-three-phi.vercel.app/)
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+## Closing Note
 
+I focus on building, testing, and securing systems responsibly. My profile documents the work I do to become proficient at the intersection of software development and cybersecurity—tools, labs, and projects that demonstrate continuous progress.
