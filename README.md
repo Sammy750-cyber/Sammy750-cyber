@@ -7,7 +7,7 @@ Welcome to my GitHub profile. I am a developer and cybersecurity practitioner fo
 ## About Me
 
 - Currently building professional expertise in **Cybersecurity**, with emphasis on penetration testing, network security, and digital forensics.
-- Strong background in **Python programming**, **web development**, and **automation scripting**, applied to both software projects and security tooling.
+- Strong background in **Python programming**, **Backend web development**, and **automation scripting**, applied to both software projects and security tooling.
 - I integrate security into software development—designing, testing, and hardening applications and infrastructure.
 - Portfolio: [https://portfolio-main-three-phi.vercel.app/](https://portfolio-main-three-phi.vercel.app/)
 
