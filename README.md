@@ -45,6 +45,7 @@ My approach blends theoretical learning with practical, repeatable labs. I versi
 - **Vulnerability Research:** Focused on reconnaissance, scanning, and validation using standard tooling.
 - **OSINT:** Conducted structured information-gathering exercises for investigations and threat modeling.
 - **Defensive Security:** Implemented basic defensive measures and practiced incident response workflows.
+- **Windows Powershell reverseshell:** I created a reverse shell generator that generates payload and  create a shell remotely to any windows system.
 
 ---
 
@@ -56,6 +57,12 @@ My approach blends theoretical learning with practical, repeatable labs. I versi
 - **[YouTube Video Downloader](https://github.com/Sammy750-cyber/YoutubeDL):** Python-based tool for saving YouTube videos.
 - **[Port Scanner](https://github.com/Sammy750-cyber/port-scanner):** Concurrent TCP connect-style port scanner for learning and authorized assessments.
 - **[Password checker](https://github.com/Sammy750-cyber/password_checker):** A simple, privacy-first Password Strength Checker implemented in Python. The tool evaluates password strength using length, character classes, entropy estimates, pattern detection, and optional dictionary and HaveIBeenPwned (HIBP) breach checks (k-anonymity). It is designed as a reusable library plus a small CLI wrapper.
+- **[Reveerseshell generatore](https://github.com/Sammy750-cyber/reverse-shell-generator.git):** I created a reverse shell generator that generates payload majorly in powershell code and works pretty well on windows powershell. However, i added extra features like bash and python but it's not 100% guaranteed to work all the time.
+- **[Facebbook mail sender](https://github.com/Sammy750-cyber/facebook_mail_sender.git):** This tool consist of three main facebook email templates, this gives the privilege of simulating phishing attacks and credential harvesting through gmail in safe and secured lab setup.
+- **[Kryptex](https://github.com/Sammy750-cyber/kryptex.git):** Production-grade command-line tool for secure key wrapping and file encryption using industry-standard cryptography. Similar to OpenSSL but better.
+- **[RedTrace](https://github.com/Sammy750-cyber/RedTrace.git):** RedTrace is a vulnerabilty scanner, It performs a concurrent TCP connect scan, basic banner grabbing, and heuristic CVE matching using a local CVE JSON database.
+
+This tool was built upon one of my previous projects (ports scanner), but with additional features. However this is the first version of this added features so nothing much to expect from it for now. Next version will be integrated with CVE-DB API instead of the static DB that this is currently running on.
 
 ---
 
