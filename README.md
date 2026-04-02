@@ -1,6 +1,7 @@
 # Hi, I'm Samuel Adegboyega (Sammy750-cyber)
 
-Welcome to my GitHub profile. I am a developer and cybersecurity practitioner focused on Python, web development, and ethical security research. I build tools, run controlled experiments in my personal lab, and document findings and utilities that help improve software and network resilience.
+Welcome to my GitHub profile. I am a developer and cybersecurity practitioner focused on Python, web development, and ethical security research. I build tools, run controlled experiments in my personal lab, and document findings and utilities that help improve software and network resilience, I build secure, scalable, and
+production-ready systems.
 
 ---
 
