@@ -1,117 +1,502 @@
-# Hi, I'm Samuel Adegboyega (Sammy750-cyber)
+# Hi, I'm Samuel Adegboyega
 
-Welcome to my GitHub profile. I am a developer and cybersecurity practitioner focused on Python, web development, and ethical security research. I build tools, run controlled experiments in my personal lab, and document findings and utilities that help improve software and network resilience, I build secure, scalable, and
-production-ready systems.
+**Software Developer | Cybersecurity Practitioner | Aspiring DevSecOps Engineer**
+
+Welcome to my GitHub profile.
+
+I am a software developer and cybersecurity practitioner building toward a career in **DevSecOps and security engineering**.
+
+My background sits at the intersection of **backend development, cybersecurity, Linux, networking, automation, and infrastructure**. I build practical software and security-focused tools, experiment in controlled lab environments, and use projects to turn concepts into working systems.
+
+I am currently expanding this foundation into DevSecOps by learning how to integrate security into the complete software lifecycle — from development and testing to deployment, infrastructure, monitoring, and operations.
 
 ---
 
 ## About Me
 
-- Currently building professional expertise in **Cybersecurity**, with emphasis on penetration testing, network security, and digital forensics.
-- Strong background in **Python programming**, **Backend web development**, and **automation scripting**, applied to both software projects and security tooling.
-- I integrate security into software development—designing, testing, and hardening applications and infrastructure.
-- Portfolio: [https://portfolio-main-three-phi.vercel.app/](https://portfolio-main-three-phi.vercel.app/)
+My development and security experience have naturally led me toward DevSecOps.
+
+On the software side, I work primarily with **JavaScript/Node.js, Express, APIs, authentication, databases, and backend architecture**.
+
+On the security side, I have been developing practical experience in **penetration testing, vulnerability assessment, reconnaissance, network security, ethical hacking, and security tooling**.
+
+I also work with **Linux, Bash, Docker, Git, networking, and automation**, which are becoming increasingly important as I expand into infrastructure and secure software delivery.
+
+Rather than treating development and cybersecurity as separate disciplines, I am working toward understanding how they fit together throughout the software development and delivery lifecycle.
+
+### Current Direction
+
+My current professional focus is:
+
+**Software Development → Cybersecurity → DevOps → DevSecOps**
+
+The goal is to develop the ability to understand an application from source code through deployment and operation, identify security risks throughout that lifecycle, automate security controls, and help build systems that are secure, reliable, and maintainable.
 
 ---
 
-## Progress & Current Focus
+## What I Bring
 
-I have deep-dived into ethical hacking and networking through structured study and extensive hands-on practice. My learning combines methodical labs, capture-the-flag (CTF) challenges, and real-world-style exercises in isolated, legal environments.
+### Software Development
 
-Highlights of my progress:
+My development background gives me practical understanding of:
 
-- **Lab work & vulnerable machines:** Completed practical exploitation and post-exploitation exercises on targets such as *Metasploitable*, *DVWA*, *Kioptrix*, and Android test environments.
-- **Network security & traffic analysis:** Practiced man-in-the-middle (MITM) scenarios, packet capture and analysis with **Wireshark** and **tcpdump**, and implemented basic network defenses.
-- **Reconnaissance & enumeration:** Performed subdomain discovery, port and service scans, and asset mapping using **Nmap**, **Sublist3r**, **assetfinder**, and **Amass**.
-- **Tooling & automation:** Built and adapted Python scripts to automate reconnaissance, scanning, and logging workflows for repeatable security assessments.
-- **OSINT investigations:** Used open-source techniques to collect and analyze publicly available information in a disciplined, ethical manner.
-- **Security mindset:** Practiced responsible disclosure principles and maintained strict boundaries—only testing systems I own or have explicit permission to assess.
+- Backend application development
+- Node.js and Express
+- REST APIs
+- Authentication and authorization
+- Database-driven applications
+- MySQL/MariaDB
+- Application architecture
+- JavaScript and Python
+- Git and GitHub
+- Docker and containerized applications
 
-Roadmap and current priorities:
+Understanding how applications are built gives me useful context when thinking about application security and secure software delivery.
 
-- Continue building experience in **web application security**, **network defense**, and **incident response**.
-- Harden personal lab infrastructure and explore containerized, reproducible lab environments.
-- Prepare for industry-recognized certification paths and deepen knowledge of exploitation frameworks and mitigation techniques.
+### Cybersecurity
 
----
+My cybersecurity learning and practical work have focused on:
 
-## Cybersecurity Journey
+- Penetration testing
+- Web application security
+- Network security
+- Reconnaissance and enumeration
+- Vulnerability assessment
+- Security testing
+- OSINT
+- Security tooling
+- Controlled exploitation labs
+- Security automation
+- Defensive security fundamentals
 
-My approach blends theoretical learning with practical, repeatable labs. I version-control reports, scripts, and lab notes to track progress and share reproducible findings.
+I primarily practice these skills in controlled environments and on systems where I have explicit authorization to test.
 
-### Key Areas of Experience
+### Linux, Networking & Infrastructure
 
-- **Penetration Testing:** Hands-on practice in controlled lab environments with vulnerable targets.
-- **MITM & Network Attacks:** Performed interception and analysis to understand attack vectors and defenses.
-- **Vulnerability Research:** Focused on reconnaissance, scanning, and validation using standard tooling.
-- **OSINT:** Conducted structured information-gathering exercises for investigations and threat modeling.
-- **Defensive Security:** Implemented basic defensive measures and practiced incident response workflows.
-- **Windows Powershell reverseshell:** I created a reverse shell generator that generates payload and  create a shell remotely to any windows system.
+I am also developing practical infrastructure knowledge through:
 
----
+- Linux administration
+- Bash scripting
+- Networking fundamentals
+- SSH
+- System services
+- File permissions
+- Process management
+- Package management
+- Logging
+- Docker
+- Virtual machines
+- Network traffic analysis
 
-## Projects
-
-- **[Instagram-likes](https://github.com/Sammy750-cyber/Instagram-likes):** Python automation for managing Instagram likes.
-- **[Project Library](https://project-library-iota.vercel.app/):** Tool for organizing project ideas and tracking progress.
-- **[Keyboard Hero](https://keyboard-hero-pink.vercel.app/):** Typing practice game with an interactive interface.
-- **[YouTube Video Downloader](https://github.com/Sammy750-cyber/YoutubeDL):** Python-based tool for saving YouTube videos.
-- **[Port Scanner](https://github.com/Sammy750-cyber/port-scanner):** Concurrent TCP connect-style port scanner for learning and authorized assessments.
-- **[Password checker](https://github.com/Sammy750-cyber/password_checker):** A simple, privacy-first Password Strength Checker implemented in Python. The tool evaluates password strength using length, character classes, entropy estimates, pattern detection, and optional dictionary and HaveIBeenPwned (HIBP) breach checks (k-anonymity). It is designed as a reusable library plus a small CLI wrapper.
-- **[Reveerseshell generatore](https://github.com/Sammy750-cyber/reverse-shell-generator.git):** I created a reverse shell generator that generates payload majorly in powershell code and works pretty well on windows powershell. However, i added extra features like bash and python but it's not 100% guaranteed to work all the time.
-- **[Facebbook mail sender](https://github.com/Sammy750-cyber/facebook_mail_sender.git):** This tool consist of three main facebook email templates, this gives the privilege of simulating phishing attacks and credential harvesting through gmail in safe and secured lab setup.
-- **[Kryptex](https://github.com/Sammy750-cyber/kryptex.git):** Production-grade command-line tool for secure key wrapping and file encryption using industry-standard cryptography. Similar to OpenSSL but better.
-- **[RedTrace](https://github.com/Sammy750-cyber/RedTrace.git):** RedTrace is a vulnerabilty scanner, It performs a concurrent TCP connect scan, basic banner grabbing, and heuristic CVE matching using a local CVE JSON database.
-
-    This tool was built upon one of my previous projects (ports scanner), but with additional features. However this is the first version of this added features so nothing much to expect from it for now. Next version will be integrated with CVE-DB API instead of the static DB that this is currently running on.
-
----
-
-## Cybersecurity Tools & Lab Setup
-
-- **Operating Systems:** Kali Linux, Ubuntu, Windows
-- **Virtualization:** VirtualBox, VMware Workstation
-- **Network Analysis:** Wireshark, tcpdump
-- **Vulnerable Targets:** Metasploitable, DVWA, Kioptrix
-- **Exploitation & Testing Frameworks:** Metasploit, Burp Suite, OWASP ZAP
-- **Reconnaissance Tools:** Nmap, Sublist3r, assetfinder, Amass
-- **Password & Brute-force Tools:** Hydra, Medusa
-- **Automation & Scripting:** Custom Python scripts for scanning, logging, and test orchestration
+These areas form an important part of my transition toward DevSecOps because application security does not exist independently of the infrastructure running the application.
 
 ---
 
-## Technical Skills
+# DevSecOps Roadmap
 
-- **Programming & Scripting:** Python, JavaScript, Node.js
-- **Web Development:** Express.js, HTML5, CSS3
-- **Databases:** MySQL
-- **Security Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Sublist3r, assetfinder
-- **Version Control & Deployment:** Git, GitHub, Vercel, Docker
-- **Operating Systems:** Kali Linux, Ubuntu, Windows
+I am treating DevSecOps as an engineering discipline rather than simply a collection of security tools.
+
+My current learning roadmap includes:
+
+### Development & Version Control
+
+- Advanced Git workflows
+- Branching strategies
+- Pull requests and code review
+- Git-based development workflows
+- Secure coding practices
+- Application architecture
+
+### CI/CD
+
+- CI/CD fundamentals
+- GitHub Actions
+- Pipeline design
+- Automated testing
+- Security gates
+- Build artifact management
+- Deployment automation
+
+### Application Security
+
+- SAST
+- DAST
+- SCA
+- Secrets scanning
+- Dependency security
+- API security
+- Authentication and authorization
+- Secure coding
+- Vulnerability management
+
+### Containers
+
+- Docker
+- Container hardening
+- Image security
+- Image scanning
+- Secure container configurations
+- Container registries
+- Kubernetes
+- Kubernetes security
+
+### Infrastructure as Code
+
+- Terraform
+- Infrastructure automation
+- Configuration management
+- IaC security scanning
+- Secure infrastructure design
+
+### Cloud & IAM
+
+- Cloud fundamentals
+- Cloud security
+- Identity and Access Management
+- Least privilege
+- Secrets management
+- Network security
+- Secure cloud deployments
+
+### Observability & Operations
+
+- Centralized logging
+- Monitoring
+- Metrics
+- Alerting
+- Distributed application visibility
+- Security monitoring
+- Incident response fundamentals
+
+### Software Supply Chain Security
+
+- Dependency management
+- Software composition analysis
+- Artifact security
+- Build integrity
+- Secrets management
+- SBOMs
+- Supply-chain security practices
+
+### Automation
+
+I intend to continue developing automation skills using:
+
+- Bash
+- Python
+- JavaScript/Node.js
+- CI/CD automation
+- Security APIs
+- Infrastructure tooling
+
+The objective is not simply to learn these technologies individually, but to understand how they work together to create secure and repeatable engineering workflows.
+
 ---
 
-## Achievements
+# Learning Through Projects
 
-- Contributed to open-source projects and published technical write-ups on automation and security topics.
-- Built reproducible lab artifacts and tools that support security research and teaching.
-- Actively participate in CTFs and ethical hacking exercises to refine practical skills.
+I learn best by building.
+
+My approach to developing DevSecOps capability is:
+
+**Learn → Build → Break → Secure → Automate → Document**
+
+Instead of collecting technologies or certifications without practical context, I want to build projects that demonstrate how the technologies work together.
+
+Some of the projects I plan to build include:
+
+- Secure CI/CD pipelines
+- Automated vulnerability scanning
+- SAST and dependency scanning workflows
+- Container security pipelines
+- Infrastructure-as-Code security checks
+- Automated security testing
+- Centralized logging and monitoring environments
+- Secure cloud deployments
+- Deliberately vulnerable applications and their hardened versions
+- Security automation tools
+- DevSecOps laboratory environments
+
+Each project should answer a practical engineering question rather than simply demonstrate that I can install or configure a particular tool.
 
 ---
 
-## 📈 GitHub Stats
+# Security & Development Projects
 
-![Sammy750-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammy750-cyber&show_icons=true&theme=radical)
+## ReconForge
 
----
+A reconnaissance automation project focused on organizing and automating security reconnaissance workflows.
 
-## Connect With Me
-
-- **LinkedIn:** [https://www.linkedin.com/in/sammy750-cyber/](https://www.linkedin.com/in/sammy750-cyber/)
-- **Twitter:** [https://x.com/sammy750-cyber](https://x.com/samueladeg92074)
-- **Website:** [https://portfolio-main-three-phi.vercel.app/](https://portfolio-main-three-phi.vercel.app/)
+The project combines my interests in **Python development, automation, reconnaissance, web technologies, and security research**.
 
 ---
 
-## Closing Note
+## RedTrace
 
-I focus on building, testing, and securing systems responsibly. My profile documents the work I do to become proficient at the intersection of software development and cybersecurity—tools, labs, and projects that demonstrate continuous progress.
+A vulnerability-scanning project that builds upon an earlier port-scanning implementation.
+
+Current functionality includes:
+
+- Concurrent TCP scanning
+- Basic banner grabbing
+- Heuristic CVE matching
+- Local CVE database integration
+
+The project represents my progression from building a basic network scanner toward developing more complete security assessment tooling.
+
+Future development includes improving vulnerability intelligence and integrating external vulnerability databases.
+
+---
+
+## Port Scanner
+
+A concurrent TCP connect-style port scanner developed as part of my exploration of network security and Python automation.
+
+The project helped establish the foundation for subsequent security tooling projects.
+
+---
+
+## Password Checker
+
+A Python-based password strength analysis tool.
+
+The project evaluates password characteristics using factors such as:
+
+- Password length
+- Character classes
+- Entropy estimates
+- Pattern detection
+- Optional dictionary checks
+- Have I Been Pwned breach checks using k-anonymity
+
+The project is structured as a reusable library with a CLI interface.
+
+---
+
+## Kryptex
+
+A command-line cryptography project focused on secure key wrapping and file encryption using established cryptographic primitives.
+
+The project reflects my interest in understanding cryptography through implementation while keeping security considerations central to the design.
+
+---
+
+## Reverse Shell Generator
+
+A security research tool for generating payload templates for controlled laboratory environments.
+
+The project primarily focuses on PowerShell-based Windows environments, with additional support for Bash and Python payload templates.
+
+This project is maintained as a security-learning artifact and is intended for authorized testing and isolated environments.
+
+---
+
+## Vulnerable Application Labs
+
+I have also worked with deliberately vulnerable applications and environments to study how vulnerabilities occur and how they can be mitigated.
+
+These include environments such as:
+
+- DVWA
+- Metasploitable
+- Kioptrix
+- Other controlled security laboratories
+
+These environments allow me to approach security from both sides:
+
+**How can a vulnerability be exploited?**
+
+and
+
+**How should the system be designed or configured to prevent it?**
+
+---
+
+# Cybersecurity Laboratory
+
+My practical cybersecurity learning environment includes:
+
+### Operating Systems
+
+- Kali Linux
+- Ubuntu
+- Windows
+
+### Virtualization
+
+- VirtualBox
+- VMware Workstation
+
+### Network Analysis
+
+- Wireshark
+- tcpdump
+
+### Security Testing
+
+- Burp Suite
+- OWASP ZAP
+- Metasploit
+
+### Reconnaissance
+
+- Nmap
+- Sublist3r
+- assetfinder
+- Amass
+
+### Password Security Testing
+
+- Hydra
+- Medusa
+
+### Automation
+
+- Python
+- Bash
+- Custom security scripts
+
+My security experimentation is performed within controlled environments and authorized targets.
+
+---
+
+# Technical Stack
+
+### Languages
+
+- Python
+- JavaScript
+- Bash
+- Java
+
+### Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Backend architecture
+
+### Databases
+
+- MySQL
+- MariaDB
+- SQLite
+
+### DevOps & Infrastructure
+
+- Git
+- GitHub
+- Docker
+- Linux
+- VirtualBox
+- VMware
+
+### Security
+
+- Nmap
+- Burp Suite
+- Metasploit
+- Wireshark
+- OWASP ZAP
+- Vulnerability assessment
+- Web application security
+- Network security
+
+### Platforms
+
+- Vercel
+- GitHub
+
+---
+
+# What I Am Working Toward
+
+My long-term objective is to become a **DevSecOps / Security Engineer** capable of contributing across the software lifecycle.
+
+I want to understand how to:
+
+1. Build applications securely.
+2. Design reliable development workflows.
+3. Automate testing and deployment.
+4. Integrate security into CI/CD pipelines.
+5. Secure containers and infrastructure.
+6. Implement Infrastructure as Code securely.
+7. Apply IAM and cloud security principles.
+8. Detect vulnerabilities earlier in the development lifecycle.
+9. Monitor applications and infrastructure after deployment.
+10. Automate repetitive security processes.
+11. Investigate and respond to security issues.
+12. Help engineering teams ship software securely without creating unnecessary friction.
+
+For me, becoming job-ready is therefore not about knowing the largest possible number of tools.
+
+It is about being able to understand the **system as a whole** and make sound engineering and security decisions throughout its lifecycle.
+
+---
+
+# Building in Public
+
+This GitHub profile is part of that process.
+
+I intend to use it to document:
+
+- Projects
+- Security research
+- DevSecOps experiments
+- Infrastructure labs
+- Automation scripts
+- Vulnerability assessments
+- Technical documentation
+- Lessons learned
+- Failed experiments
+- Improvements and iterations
+
+I believe practical evidence is more valuable than simply stating that I know something.
+
+A repository, deployment, pipeline, security test, or documented investigation provides something concrete to examine, improve, and learn from.
+
+---
+
+# Current Focus
+
+I am currently prioritizing:
+
+- Linux administration
+- Bash scripting
+- Git and GitHub workflows
+- Docker
+- CI/CD
+- Application security
+- Security automation
+- Infrastructure security
+- Infrastructure as Code
+- Cloud fundamentals
+- Kubernetes
+- IAM
+- Monitoring and observability
+- Software supply-chain security
+
+The immediate objective is to turn these individual areas into practical, connected engineering capability.
+
+---
+
+# Connect
+
+- LinkedIn: [linkedin.com/in/sammy750-cyber](https://www.linkedin.com/in/sammy750-cyber/)
+- X: [x.com/samueladeg92074](https://x.com/samueladeg92074)
+- Portfolio: [portfolio-main-three-phi.vercel.app](https://portfolio-main-three-phi.vercel.app/)
+
+---
+
+# Final Note
+
+I am building toward the intersection of **software engineering, cybersecurity, infrastructure, and automation**.
+
+My previous work in backend development and cybersecurity gives me a foundation, while DevSecOps provides the direction in which I want to develop that foundation further.
+
+This profile will evolve alongside that journey.
+
+The goal is simple:
+
+**Build systems. Understand how they fail. Secure them. Automate the security process. Document the work. Keep improving.**
